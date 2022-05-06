@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My portfolio
 
-Hello, welcome to my page!
+Hello, my name's Ben!
+if you are home then i assume its because you want to check out my work 😉
 
-You can use the [editor on GitHub](https://github.com/onwurahben/onwurahben.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/onwurahben/onwurahben.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
