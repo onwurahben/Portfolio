@@ -2,7 +2,7 @@
 
 Hello, my name's Ben!
 
-If you are here then I assume its because you want to check out my work 😉
+ If you are here then I assume its because you want to check out my work 😉
 
 You can use the [editor on GitHub](https://github.com/onwurahben/onwurahben.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
